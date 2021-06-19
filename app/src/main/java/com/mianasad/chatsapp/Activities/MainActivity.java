@@ -42,7 +42,7 @@ import java.util.Date;
 import java.util.HashMap;
 
 
-public class MainActivity extends AppCompatActivity {
+public class DashboardActivity extends AppCompatActivity {
 
     ActivityMainBinding binding;
     FirebaseDatabase database;
